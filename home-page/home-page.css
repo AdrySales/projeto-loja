@@ -1,0 +1,17 @@
+/*____________________________________________   BODY ______________________________________________________*/
+
+body {
+    background-color: rgb(223, 221, 221); 
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+/*____________________________________________   XXXXXX ______________________________________________________*/
+main{
+    background: url("assets/imagens/home-page2.jpg") no-repeat center center;
+    background-size: cover;  /*caso a resolução do monitor for maior que a imagem*/
+    min-height: 92vh; /*completa os 8vh do navbar*/
+}
